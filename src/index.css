@@ -32,3 +32,13 @@ input::placeholder{
     text-decoration: none;
     color: white;
 }
+
+
+.nav-bar-wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #4b1b78;
+    color: white;
+    font-weight: bold;
+}
